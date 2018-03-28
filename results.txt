@@ -1,0 +1,807 @@
+//////////////////////////////////////////////////////////
+TEST RESULTS:
+
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+Predicted to be: 5 Actually: 7Result: Incorrect
+Predicted to be: 5 Actually: 5 Result: Correct
+Predicted to be: 7 Actually: 5Result: Incorrect
+Predicted to be: 5 Actually: 8Result: Incorrect
+Predicted to be: 7 Actually: 7 Result: Correct
+
+
+The accuracy is: 47.745358090185675%
+
+//////////////////////////////////////////////////////////
+FINAL NODE WEIGHTS:
+
+Hidden Layer node: 15.7295555785, 4.7546122605, 0.706543916227, 26.9805165812, 1.06476756925, -6.63424597572, 1.37614517085, -0.272201054045, -3.23506671664, -2.59927862488, -148.784248839, 
+
+Hidden Layer node: -1.18848167551, -0.981937800079, -0.166494414622, -10.6332452052, -0.132984032891, 20.2990582993, -10.1578221127, 2.01817084227, 9.77596372485, 3.80727135839, 109.671936208, 
+
+Hidden Layer node: 48.8589786617, 6.70648586073, -2.7454389713, -26.6300750809, 3.56040059347, -10.2235394488, 16.7314647219, -4.79245776706, -29.8130951068, -10.3102881048, -482.186530878, 
+
+Hidden Layer node: -2.18071296784, 2.22965542283, -0.307030969794, 14.7208303381, 1.43257889942, 4.34867559944, 0.715256654052, -1.73602996962, -7.62693030436, -3.4405422492, -115.395093107, 
+
+Hidden Layer node: -1.83247316598, -0.315902617015, 0.430976154529, 1.59477400769, 0.580235812158, -1.10880931654, -1.9429045999, 0.232367628963, -1.90194680035, -0.847195687703, -15.7467745999, 
+
+Hidden Layer node: -72.8607385999, 9.43696777172, -0.962377671975, 11.8267326682, 4.11745558571, 9.64000064466, 32.8524450533, -17.2456710153, -67.6855718031, -17.8368116872, -692.322082784, 
+
+Hidden Layer node: -2.46531705917, 1.10972670292, -0.305566755726, 11.2644163228, -0.164794900661, 6.39563383057, -1.42262752827, -1.64191867148, -4.1937443984, -2.93366478803, -68.2540725159, 
+
+Hidden Layer node: -1.86471421607, 0.0572876064973, 0.163069737508, -2.26289852154, 0.645278714834, 0.0382635874932, -3.46186431487, -0.13290099359, 3.46936537801, 1.61719249531, 40.7194228748, 
+
+Hidden Layer node: 0.668846538251, 0.405474593656, 0.208331712666, -2.53793111751, -0.950240596958, 0.25317517962, -2.75979868651, 0.942588858806, 1.3701154455, -0.0764566049923, 27.8945646777, 
+
+Hidden Layer node: -0.807606054028, -2.00713800737, 1.03516660559, -6.05836443292, -1.48527040803, 1.50091328602, -4.63346577235, 1.03545736658, 5.97138458414, 2.20559605046, 85.7081230389, 
+
+Output Layer node: 8.629651611224617, -1.8024277823511594, 6.155221896638299, 2.74697924731368, -0.06519624536519636, 6.752138087606479, 3.9316991768328404, -2.962520770551434, -2.0919689951600122, -3.3173908640965752, 
+
+Output Layer node: -8.067417772725037, -1.4389810528287716, -5.087309640439579, -4.0399866171119045, -1.0671849256947608, -5.932937736620088, -2.2252124735327765, 0.8010834419774416, 0.7772026381892144, 0.6683618295623909, 
+
+Output Layer node: -3.0266751944788726, 1.794755148640033, -4.501559686595737, 0.24885148336930807, -1.0328368467597135, -2.925267561995096, 0.864324984612132, -0.3000504192039594, -0.9707780990810876, -2.955911026591317, 
+
+//////////////////////////////////////////////////////////
+CONFUSTION MATRIX:
+
+   P5           P7        P8
+A5 246.000000  193.000000  0.000000
+A7 155.000000  114.000000  0.000000
+A8 26.000000  20.000000  0.000000
+
+//////////////////////////////////////////////////////////
+PRECISION AND RECALL:
+
+Rating 5: Precision =  0.576112  Recall = 0.560364
+
+Rating 7: Precision =  0.348624  Recall = 0.423792
+
+Rating 8: Precision =  nan  Recall = 0.000000
+
